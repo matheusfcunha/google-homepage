@@ -1,3 +1,22 @@
+
+
+#sign_in {
+    display: inline-block;
+    background-color: #4387fb;
+    color: #ffffff;
+    border-radius: 3px;
+    font-family: arial, serif;
+    font-size: 78%;
+    padding: 9px 13px 9px 13px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+  }
+
+
+
+
 #logo {
   position: absolute;
   left: 550px;
