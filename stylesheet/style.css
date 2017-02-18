@@ -100,3 +100,46 @@
   top: 80px;
   margin-left: 7px;
 }
+
+/*footer below*/
+
+
+
+#footer {
+	bottom: 0;
+	height: 35px;
+	position: absolute;
+	width: 100%;
+	height: 40px;
+	background: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+	line-height: 40px;
+	left: 0;
+	right: 0;
+	display: block;
+}
+
+#left {
+	white-space: nowrap;
+}
+
+#right {
+	text-align: right;
+	float: right;
+	padding-right: 30px;
+	font-family: arial, serif;
+	font-size: small;
+}
+
+#footer span a {
+	padding-left: 30px;
+	text-decoration: none;
+	color: #666;
+	font-family: arial, sans-serif;
+	font-size: small;
+	margin: 0;
+}
+
+#footer span a:hover {
+	text-decoration: underline;
+}
